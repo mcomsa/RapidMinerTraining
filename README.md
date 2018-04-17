@@ -7,6 +7,8 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/data-mining-training-rapidminer-studio.html
 
+https://www.tertiarycourses.com.my/data-mining-training-rapidminer-studio-malaysia.html
+
 <h2>Day 1</h2>
 <p><strong>Module 1: Getting Started with RapidMiner Studio</strong></p>
 <ul>
